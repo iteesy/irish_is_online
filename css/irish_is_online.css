@@ -359,6 +359,9 @@ label {
 
   .paragraph.about {
     padding-right: 6px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
   }
 
   .paragraph._404 {
