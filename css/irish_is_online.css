@@ -135,9 +135,9 @@ label {
 }
 
 .paragraph._404 {
-  font-family: 'Libre Franklin', sans-serif;
-  font-size: 18px;
-  line-height: 26px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 22px;
 }
 
 .image {
@@ -362,7 +362,7 @@ label {
   }
 
   .paragraph._404 {
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     line-height: 26px;
   }
