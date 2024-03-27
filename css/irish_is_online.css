@@ -93,9 +93,9 @@ label {
   background-image: url('../images/background.png');
   background-position: 50% 100%;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;F
   font-family: 'Libre Franklin', sans-serif;
-  color: #1f1d1d;
+  color: #FFF;
   font-size: 18px;
   line-height: 22px;
   -o-object-fit: none;
@@ -103,12 +103,18 @@ label {
 }
 
 .body {
-  background-color: #fff;
+  /* background-color: #fff;*/
+    background-color: rgba(134, 173, 212, 0.84);
+  background-image: url('../images/background.png');
+  background-position: 50% 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 }
 
 .header-about {
   font-family: 'Libre Franklin', sans-serif;
-  color: #1f1d1d;
+  color: #FFF;
   font-weight: 500;
 }
 
@@ -127,11 +133,12 @@ label {
   margin-bottom: 0px;
   padding-top: 24px;
   padding-bottom: 24px;
-  color: #1f1d1d;
+  color: #FFF;
 }
 
 .paragraph.about {
   margin-right: 40px;
+  color: #FFF;
 }
 
 .paragraph._404 {
@@ -425,7 +432,7 @@ label {
   .link-2 {
     width: auto;
     font-family: 'Orator std font', 'Times New Roman', sans-serif;
-    color: #1f1d1d;
+    color: #FFF;
     font-size: 22px;
     letter-spacing: 0.06rem;
     text-decoration: none;
